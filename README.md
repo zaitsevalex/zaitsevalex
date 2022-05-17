@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zaitsevalex
 - 👀 I’m interested in work experience
 - 🌱 I’m currently learning JavaScript
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking for ideas.
 - 📫 How to reach me ...
 
 <!---
